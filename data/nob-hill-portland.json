@@ -1,0 +1,150 @@
+{
+  "id": "nob-hill-portland-or-97210",
+  "location": {
+    "address": "1234 NW 23rd Avenue, Portland, OR 97210",
+    "neighborhood": "Nob Hill",
+    "suburb": "Northwest District",
+    "city": "Portland",
+    "county": "Multnomah County",
+    "state": "Oregon",
+    "postcode": "97210",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 45.5317783,
+      "longitude": -122.6985663
+    }
+  },
+  "analysis_metadata": {
+    "source": "OpenStreetMap (ODbL 1.0)",
+    "analysis_date": "2026-07-14",
+    "analysis_radius_meters": 1000,
+    "tool": "osm-mcp-server neighborhood analysis",
+    "osm_place_id": 407060190,
+    "osm_way_id": 119636244
+  },
+  "walkability_scores": {
+    "overall_walkability": 10,
+    "overall_neighborhood_score": 5.1,
+    "interpretation": "Walker's Paradise",
+    "categories": {
+      "groceries": {"score": 7.1, "rating": "Good", "count": 3, "avg_distance_m": 668.1, "min_distance_m": 173.3},
+      "restaurants": {"score": 9.8, "rating": "Excellent", "count": 89, "note": "High restaurant density within 1km radius"},
+      "healthcare": {"score": 0, "rating": "None detected", "count": 0, "note": "No healthcare facilities within 1km"},
+      "education": {"score": 2.9, "rating": "Minimal", "note": "Limited educational institutions within 1km"},
+      "public_transport": {"score": 9.4, "rating": "Excellent", "note": "Well-served by Portland Streetcar network"},
+      "parks": {"score": 4.3, "rating": "Good", "note": "Some green spaces within range"},
+      "sports": {"score": 8.7, "rating": "Very Good", "note": "Good sports/fitness facilities access"},
+      "entertainment": {"score": 0, "rating": "None detected", "count": 0},
+      "shopping": {"score": 0, "rating": "None detected", "count": 0},
+      "services": {"score": 8.8, "rating": "Very Good", "count": null}
+    }
+  },
+  "amenities": {
+    "groceries": [
+      {
+        "name": "Lovejoy Grocery",
+        "type": "convenience",
+        "distance_m": 173.3,
+        "address": "1025 NW 23rd Avenue, Portland, OR 97210",
+        "coordinates": {"lat": 45.5302289, "lon": -122.6988111}
+      },
+      {
+        "name": "Natural Mart #3",
+        "type": "convenience",
+        "distance_m": 875.6,
+        "address": "522 NW 19th Avenue, Portland, OR 97210",
+        "hours": "Mo-Sa 08:00-23:00; Su 09:00-22:00",
+        "coordinates": {"lat": 45.5265156, "lon": -122.6902047}
+      },
+      {
+        "name": "Zupan's",
+        "type": "supermarket",
+        "distance_m": 955.4,
+        "address": "2340 W Burnside Street, Portland, OR 97210",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+1-503-497-1088",
+        "website": "https://www.zupans.com/",
+        "coordinates": {"lat": 45.5232052, "lon": -122.6993847}
+      }
+    ],
+    "restaurants_sample": [
+      {
+        "name": "Tara Thai Northwest",
+        "cuisine": "Thai/Lao",
+        "distance_m": 41.7,
+        "address": "1310 NW 23rd Avenue, Portland, OR 97210",
+        "website": "https://tarathainorthwest.com/"
+      },
+      {
+        "name": "Top Burmese Burma Joy",
+        "cuisine": "Burmese/Asian",
+        "distance_m": 46.2,
+        "address": "1305 NW 23rd Avenue, Portland, OR 97210",
+        "hours": "Mo-Su 11:30-21:00",
+        "phone": "+1-503-206-8560",
+        "website": "https://topburmese.com/pages/nw-23rd-ave"
+      },
+      {
+        "name": "Siri Indian Cuisine",
+        "cuisine": "Indian",
+        "distance_m": 68.0,
+        "address": "1323 NW 23rd Avenue, Portland, OR 97210",
+        "website": "http://www.siriindianportland.com/"
+      },
+      {
+        "name": "Case Study Coffee Roasters",
+        "type": "cafe",
+        "distance_m": 113.5,
+        "address": "1400 NW 23rd Avenue, Portland, OR 97210",
+        "hours": "07:00-16:00",
+        "outdoor_seating": true,
+        "wifi": true,
+        "website": "https://www.casestudycoffee.com/"
+      },
+      {
+        "name": "Palomar",
+        "cuisine": "Latin",
+        "distance_m": 142.6,
+        "address": "1422 NW 23rd Avenue, Portland, OR 97210",
+        "website": "https://www.barpalomar.com/"
+      },
+      {
+        "name": "Dorio Greek Taverna",
+        "cuisine": "Greek",
+        "distance_m": 158.7,
+        "address": "1037 NW 23rd Avenue, Portland, OR 97210"
+      },
+      {
+        "name": "Matador",
+        "cuisine": "Mexican",
+        "distance_m": 162.1,
+        "address": "1438 NW 23rd Avenue, Portland, OR 97210"
+      },
+      {
+        "name": "Grassa",
+        "cuisine": "Italian",
+        "distance_m": 187.9,
+        "address": "1506 NW 23rd Avenue, Portland, OR 97210",
+        "website": "https://www.grassapdx.com/"
+      },
+      {
+        "name": "Hem Vietnamese Bar & Grill",
+        "cuisine": "Vietnamese",
+        "distance_m": 205.9,
+        "address": "1514 NW 23rd Avenue, Portland, OR 97210"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Nob Hill Nature Park",
+        "note": "Located in the Nob Hill enclave area"
+      }
+    ],
+    "transit": [
+      {
+        "note": "Portland Streetcar stops within walking distance on NW 23rd Avenue and Burnside Street",
+        "lines": ["NS Line (North/South)", "A Loop", "B Loop"]
+      }
+    ]
+  }
+}
