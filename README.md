@@ -7,61 +7,71 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 **Address:** 1234 NW 23rd Avenue, Portland, OR 97210  
 **Neighborhood:** Nob Hill, Northwest District  
 **City/County:** Portland, Multnomah County, Oregon  
-**Coordinates:** 45.5317783, -122.6985663  
+**Coordinates:** 45.5317733, -122.6985653
 
 ## Walkability Score
 
 | Metric | Score | Rating |
 |--------|-------|--------|
 | **Overall Walkability** | **10/10** | Walker's Paradise |
-| **Overall Neighborhood Score** | 5.1/10 | Above Average |
+| **Overall Neighborhood Score** | 6.3/10 | Above Average |
 | **Public Transit** | 9.4/10 | Excellent |
 | **Groceries** | 7.1/10 | Good |
 | **Restaurants** | 9.8/10 | Excellent |
+| **Healthcare** | 9.8/10 | Excellent |
 | **Sports/Fitness** | 8.7/10 | Very Good |
 | **Services** | 8.8/10 | Very Good |
+| **Shopping** | 8.8/10 | Very Good |
 | **Parks** | 4.3/10 | Good |
 | **Education** | 2.9/10 | Minimal |
-| **Healthcare** | 0/10 | None in 1km |
 | **Entertainment** | 0/10 | None in 1km |
-| **Shopping** | 0/10 | None in 1km |
 
 ## Key Highlights
 
 - **89 restaurants** within 1km — one of the highest restaurant densities in Portland
 - **Walker's Paradise** — daily errands do not require a car
-- **Excellent transit** — Portland Streetcar stops within walking distance
+- **Excellent transit** — Portland Streetcar stops within walking distance (2 min walk to nearest stop)
 - **Culinary diversity** — Thai, Burmese, Indian, Greek, Mexican, Italian, Vietnamese cuisines all within 200m
-- **Grocery access** — 3 options including a supermarket (Zupan's) within 1km
+- **Grocery access** — 3 options including convenience stores within 175m and supermarket within 1km
+- **Excellent healthcare access** — 6 facilities within 1km including pharmacy 38m away
+- **Strong fitness access** — 8+ sports/fitness facilities including LA Fitness, YogaSix, Portland Aikikai
+- **Artisan bakery access** — Ken's Artisan Bakery and St. Honoré within 1km
 
 ## Amenities Detail
 
 ### Groceries (3 found, avg distance 668m)
 - **Lovejoy Grocery** — 173m away at 1025 NW 23rd Ave (convenience store)
-- **Natural Mart #3** — 876m away at 522 NW 19th Ave (convenient store, open Mo-Sa 8am-11pm, Su 9am-10pm)
-- **Zupan's** — 955m away at 2340 W Burnside St (full supermarket, Mo-Su 6am-10pm)
+- **Natural Mart #3** — 876m away at 522 NW 19th Ave (convenient store, open Mo-Su 8am/9pm)
+- **Zupan's Market** — 955m away at 2340 W Burnside St (full supermarket, Mo-Su 6am-10pm)
 
 ### Restaurants (89 found within 1km — sample below)
 - **Tara Thai Northwest** — 42m (Thai/Lao)
-- **Top Burmese Burma Joy** — 46m (Burmese/Asian)
-- **Siri Indian Cuisine** — 68m (Indian)
+- **Top Burmese Burma Joy** — 47m (Burmese/Asian)
+- **Siri Indian Cuisine** — 69m (Indian)
 - **Case Study Coffee Roasters** — 114m (cafe, outdoor seating, wifi)
 - **Palomar** — 143m (Latin)
-- **Dorio Greek Taverna** — 159m (Greek)
-- **Matador** — 162m (Mexican)
+- **Dorio Greek Taverna** — 158m (Greek)
+- **Matador** — 163m (Mexican)
 - **Grassa** — 188m (Italian)
-- **Hem Vietnamese Bar & Grill** — 206m (Vietnamese)
+- **Hem Vietnamese Bar & Grill** — 207m (Vietnamese)
+
+### Healthcare (6 found, avg distance 488m)
+- **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave (open Mo-Fr 8:30am-6pm)
+- **Integrative Primary Care Associates** — 452m at 2050 NW Lovejoy St
 
 ### Public Transit
-- Portland Streetcar NS Line and A/B Loops serve the area
-- Multiple stops within walking distance on NW 23rd Avenue and W Burnside Street
+- Portland Streetcar NS Line, A Loop, and B Loop serve the area
+- NW 23rd & Marshall stop — 128m (2 min walk)
+- Multiple additional stops within 1km on NW 23rd Avenue and W Burnside Street
+
+### Sports & Fitness (11 facilities within 1km)
+- LA Fitness, YogaSix, Portland Aikikai, Hyatt Training, Orangetheory Fitness, Kiska, Industrial Strength Gym, and more
 
 ### Parks & Recreation
-- Nob Hill Nature Park and surrounding green spaces
-- Sports/fitness score of 8.7/10 indicates good access to athletic facilities
+- **Nob Hill Nature Park** in the Nob Hill enclave
+- Playground and picnic areas within 1km
 
 ### Limitations
-- No healthcare facilities detected within 1km radius
 - No dedicated entertainment venues (cinema, theater) within 1km
 - Educational institutions are limited within the 1km radius
 
