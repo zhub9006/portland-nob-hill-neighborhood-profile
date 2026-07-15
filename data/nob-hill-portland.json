@@ -1,1 +1,275 @@
-{"id": "nob-hill-portland-or-97210", "location": {"address": "1234 NW 23rd Avenue, Portland, OR 97210", "neighborhood": "Nob Hill", "suburb": "Northwest District", "city": "Portland", "county": "Multnomah County", "state": "Oregon", "postcode": "97210", "country": "United States", "coordinates": {"latitude": 45.5317733, "longitude": -122.6985653}}, "analysis_metadata": {"source": "OpenStreetMap (ODbL 1.0)", "analysis_date": "2026-07-14", "analysis_radius_meters": 1000, "tool": "osm-mcp-server neighborhood analysis", "osm_place_id": 401058819, "osm_way_id": 119636244, "geocoded_address": "1232, Northwest 23rd Avenue, Nob Hill, Northwest District, Portland, Multnomah County, Oregon, 97210, United States"}, "walkability_scores": {"overall_walkability": 10, "overall_neighborhood_score": 6.3, "interpretation": "Walker's Paradise", "categories": {"groceries": {"score": 0, "rating": "No dedicated supermarkets at closest", "count": 3, "avg_distance_m": 668.1, "min_distance_m": 173.3}, "restaurants": {"score": 9.8, "rating": "Excellent", "count": 89, "avg_distance_m": 543.0, "min_distance_m": 42.2}, "healthcare": {"score": 9.8, "rating": "Excellent", "count": 6, "avg_distance_m": 487.6, "min_distance_m": 37.8}, "education": {"score": 2.9, "rating": "Minimal", "note": "Limited educational institutions within 1km"}, "public_transport": {"score": 9.4, "rating": "Excellent", "count": 4, "avg_distance_m": 428.9, "min_distance_m": 127.7}, "parks": {"score": 4.3, "rating": "Good", "note": "Some green spaces and playgrounds within range"}, "sports": {"score": 8.7, "rating": "Very Good", "count": 11, "avg_distance_m": 892.4}, "entertainment": {"score": 0, "rating": "None detected", "count": 0}, "shopping": {"score": 8.8, "rating": "Very Good", "count": 7, "avg_distance_m": 743.2}, "services": {"score": 8.8, "rating": "Very Good", "count": 7, "avg_distance_m": 612.5}}}, "amenities": {"groceries": [{"name": "Lovejoy Grocery", "type": "convenience", "distance_m": 173.3, "address": "1025 NW 23rd Avenue, Portland, OR 97210", "coordinates": {"lat": 45.5302289, "lon": -122.6988111}}, {"name": "Natural Mart #3", "type": "convenience", "distance_m": 875.6, "address": "522 NW 19th Avenue, Portland, OR 97210", "hours": "Mo-Sa 08:00-23:00; Su 09:00-22:00", "coordinates": {"lat": 45.5265156, "lon": -122.6902047}}, {"name": "Zupan's Market", "type": "supermarket", "distance_m": 955.4, "address": "2340 W Burnside Street, Portland, OR 97210", "hours": "Mo-Su 06:00-22:00", "phone": "+1-503-497-1088", "website": "https://www.zupans.com/", "coordinates": {"lat": 45.5232052, "lon": -122.6993847}}], "restaurants_sample": [{"name": "Tara Thai Northwest", "cuisine": "Thai/Lao", "distance_m": 42.2, "address": "1310 NW 23rd Avenue, Portland, OR 97210", "website": "https://tarathainorthwest.com/"}, {"name": "Top Burmese Burma Joy", "cuisine": "Burmese/Asian", "distance_m": 46.8, "address": "1305 NW 23rd Avenue, Portland, OR 97210", "hours": "Mo-Su 11:30-21:00", "phone": "+1-503-206-8560", "website": "https://topburmese.com/pages/nw-23rd-ave"}, {"name": "Siri Indian Cuisine", "cuisine": "Indian", "distance_m": 68.6, "address": "1323 NW 23rd Avenue, Portland, OR 97210", "website": "http://www.siriindianportland.com/"}, {"name": "Case Study Coffee Roasters", "type": "cafe", "distance_m": 114.1, "address": "1400 NW 23rd Avenue, Portland, OR 97210", "hours": "07:00-16:00", "outdoor_seating": true, "wifi": true, "phone": "+15034778221", "website": "https://www.casestudycoffee.com/"}, {"name": "Palomar", "cuisine": "Latin", "distance_m": 143.1, "address": "1422 NW 23rd Avenue, Portland, OR 97210", "website": "https://www.barpalomar.com/"}, {"name": "Dorio Greek Taverna", "cuisine": "Greek", "distance_m": 158.1, "address": "1037 NW 23rd Avenue, Portland, OR 97210"}, {"name": "Matador", "cuisine": "Mexican", "distance_m": 162.6, "address": "1438 NW 23rd Avenue, Portland, OR 97210"}, {"name": "Grassa", "cuisine": "Italian", "distance_m": 188.4, "address": "1506 NW 23rd Avenue, Portland, OR 97210", "website": "https://www.grassapdx.com/"}, {"name": "Hem Vietnamese Bar & Grill", "cuisine": "Vietnamese", "distance_m": 206.5, "address": "1514 NW 23rd Avenue, Portland, OR 97210", "website": "https://www.hem23.com"}], "healthcare": [{"name": "Walgreens Pharmacy", "type": "pharmacy", "distance_m": 37.8, "address": "1215 NW 23rd Avenue, Portland, OR 97210", "hours": "Mo-Fr 08:30-18:00", "phone": "+1 503 937 4984", "coordinates": {"lat": 45.5315348, "lon": -122.6989104}}, {"name": "Integrative Primary Care Associates", "type": "doctor", "distance_m": 452.4, "address": "2050 NW Lovejoy Street, Portland, OR 97209", "coordinates": {"lat": 45.5297718, "lon": -122.6935088}}], "public_transit": [{"stop_name": "Northwest 23rd & Marshall", "network": "Portland Streetcar", "lines": ["NS Line (North/South)", "A Loop", "B Loop"], "operator": "TriMet", "distance_m": 127.7, "walk_time_minutes": 2, "coordinates": {"lat": 45.5306216, "lon": -122.6986695}}, {"stop_name": "Northwest Lovejoy & 22nd", "network": "Portland Streetcar", "lines": ["A Loop"], "operator": "TriMet", "distance_m": 270.0, "walk_time_minutes": 4, "coordinates": {"lat": 45.5298101, "lon": -122.6968508}}, {"stop_name": "Northwest Lovejoy & 21st", "network": "Portland Streetcar", "lines": ["B Loop"], "operator": "TriMet", "distance_m": 380.0, "walk_time_minutes": 5, "coordinates": {"lat": 45.5298501, "lon": -122.6946997}}, {"stop_name": "Northwest Lovejoy & 18th", "network": "Portland Streetcar", "lines": ["B Loop"], "operator": "TriMet", "distance_m": 830.0, "coordinates": {"lat": 45.5299421, "lon": -122.6896237}}], "cafes": [{"name": "Starbucks", "type": "cafe", "distance_m": 950.0, "address": "2328 W Burnside Street, Portland, OR 97210", "phone": "+1 503-228-8777", "website": "https://www.starbucks.com/"}, {"name": "Portal Tea", "type": "tea shop", "distance_m": 520.0, "address": "734 NW 23rd Avenue, Portland, OR 97210", "hours": "10:00-21:00", "indoor_seating": true, "wifi": true, "website": "https://www.portaltea.co"}, {"name": "Memento Mori Cafe", "type": "cafe", "distance_m": 450.0, "address": "1533 NW 24th Avenue, Portland, OR 97210", "hours": "Mo-Sa 08:00-17:00; Su 09:00-16:00", "dietary": "vegan", "wifi": true, "website": "https://www.mementomoricafe.com/"}, {"name": "Harlow Cafe + Juice Bar", "type": "cafe", "distance_m": 610.0, "address": "505 NW 23rd Avenue, Portland, OR 97210", "hours": "Mo-Su 09:00-20:00", "phone": "+1-503-477-8..."}], "sports_fitness": [{"name": "LA Fitness", "type": "fitness_centre", "distance_m": 970.0, "address": "1400 NW Northrup Street, Portland, OR 97209", "brand": "LA Fitness", "website": "https://www.lafitness.com/"}, {"name": "Hyatt Training", "type": "sports_centre", "distance_m": 890.0, "address": "1622 NW 15th Avenue, Portland, OR 97209", "sport": "athletics", "website": "https://hyatttraining.com/"}, {"name": "YogaSix", "type": "sports_centre", "distance_m": 420.0, "address": "1516 NW 22nd Avenue, Portland, OR 97210", "sport": "yoga", "website": "https://www.yogasix.com/location/slabtown"}, {"name": "Kiska", "type": "sports_centre", "distance_m": 870.0, "address": "1435 NW Raleigh Street, Portland, OR 97209", "sport": "pole_dance", "website": "https://www.kiskapole.com/"}, {"name": "Portland Aikikai", "type": "sports_centre", "distance_m": 880.0, "address": "1612 NW 15th Avenue, Portland, OR 97209", "sport": "aikido", "website": "https://www.portlandaikikai.com/"}, {"name": "Industrial Strength Gym", "type": "fitness_centre", "distance_m": 790.0, "address": "2714 NW Thurman Street, Portland, OR 97210", "sport": "weightlifting;kickboxing;jiu-jitsu"}, {"name": "Orangetheory Fitness", "type": "fitness_centre", "distance_m": 620.0, "address": "2195 NW Raleigh Street, Portland, OR 97210", "brand": "Orangetheory Fitness", "phone": "+1 503-278-5326"}, {"name": "StretchLab", "type": "fitness_centre", "distance_m": 870.0, "address": "1603 NW 14th Avenue, Portland, OR 97209", "phone": "+1-971-271-7984"}], "shopping": [{"name": "Zupan's Market", "type": "supermarket", "distance_m": 955.4, "address": "2340 W Burnside Street, Portland, OR 97210"}, {"name": "Ken's Artisan Bakery", "type": "bakery", "distance_m": 850.0, "address": "338 NW 21st Avenue, Portland, OR 97209", "website": "https://kensartisan.com/bakery", "hours": "Mo-Su 08:00-16:00"}, {"name": "St. Honoré Bakery", "type": "bakery", "distance_m": 710.0, "address": "2335 NW Thurman Street, Portland, OR 97210", "website": "https://www.sainthonorebakery.com/", "hours": "Mo-Su 06:30-18:00"}, {"name": "Cyclepath West", "type": "bicycle_shop", "distance_m": 980.0, "address": "2714 NW Thurman Street, Portland, OR 97210", "phone": "+1 503 222 3276", "website": "https://www.cyclepathpdx.com/"}], "services": [{"name": "Valvoline Instant Oil Change", "type": "car_repair", "distance_m": 680.0, "address": "2016 NW 26th Avenue, Portland, OR 97210", "hours": "Su 08:30-17:00, Mo-Fr 08:00-19:00, Sa 08:00-18:00", "phone": "+1-503-224-3816"}, {"name": "Rudy's Barbershop", "type": "hairdresser", "distance_m": 860.0, "address": "326 NW 21st Avenue, Portland, OR 97209"}], "parks_leisure": [{"name": "Nob Hill Nature Park", "type": "park", "note": "Located in the Nob Hill enclave area"}, {"name": "Picnic Table Area", "type": "park_amenity", "distance_m": 650.0, "note": "Public picnic tables with wheelchair access"}, {"name": "Playground (private)", "type": "playground", "distance_m": 870.0, "note": "Private playground in Nob Hill area"}], "entertainment": [], "education": []}, "lewis_and_clark_college": null, "key_highlights": {"walkability": "Walker's Paradise — daily errands do not require a car", "restaurant_density": "89 restaurants within 1km — one of the highest restaurant densities in Portland", "culinary_diversity": "Thai, Burmese, Indian, Greek, Mexican, Italian, Vietnamese, Lao cuisines all within 200m", "transit": "Portland Streetcar NS Line and A/B Loops with multiple stops within walking distance", "grocery": "3 options including convenience store within 175m and supermarket within 1km", "healthcare": "6 healthcare facilities including pharmacy within 38m", "fitness": "8+ sports/fitness facilities including LA Fitness, YogaSix, Portland Aikikai", "baking": "Ken's Artisan Bakery and St. Honoré within 1km — excellent artisan bread access"}, "raw_food_stats": {"total_restaurants_1km": 89, "avg_restaurant_distance_m": 543.0, "min_restaurant_distance_m": 42.2, "total_cafes_1km": 10, "total_healthcare_1km": 6, "total_fitness_1km": 11, "total_shops_1km": 7, "total_transit_stops_1km": 4, "total_parks_1km": 3}, "data_sources": {"primary": "OpenStreetMap (Data © OpenStreetMap contributors, ODbL 1.0)", "analysis_method": "OSM-based neighborhood scoring via OSRM routing", "analysis_tool": "osm-mcp-server", "collection_date": "2026-07-14", "radius": "1000 meters"}}
+{
+  "metadata": {
+    "address": "1234 NW 23rd Avenue, Portland, OR 97210",
+    "neighborhood": "Nob Hill / Northwest District",
+    "city": "Portland",
+    "county": "Multnomah County",
+    "state": "Oregon",
+    "zip_code": "97210",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 45.5317733,
+      "longitude": -122.6985653
+    },
+    "analysis_radius_meters": 1000,
+    "data_source": "OpenStreetMap (OSM contributors, ODbL 1.0)",
+    "osm_place_id": 401058819,
+    "osm_way_id": 119636244,
+    "analysis_date": "2026-07-14"
+  },
+  "walkability": {
+    "overall_score": 10,
+    "rating": "Walker's Paradise",
+    "scores": {
+      "groceries": 0,
+      "restaurants": 9.8,
+      "healthcare": 9.8,
+      "education": 2.9,
+      "public_transport": 9.4,
+      "parks": 4.3,
+      "sports": 8.7,
+      "entertainment": 0,
+      "shopping": 8.8,
+      "services": 8.8
+    }
+  },
+  "amenities": {
+    "restaurants": {
+      "total_count": 89,
+      "average_distance_m": 543,
+      "min_distance_m": 42.2,
+      "sample": [
+        {
+          "name": "Tara Thai Northwest",
+          "distance_m": 42.2,
+          "address": "1310 NW 23rd Avenue",
+          "cuisine": "Thai/Lao",
+          "website": "https://tarathainorthwest.com/"
+        },
+        {
+          "name": "Top Burmese Burma Joy",
+          "distance_m": 46.8,
+          "address": "1305 NW 23rd Avenue",
+          "cuisine": "Burmese/Asian",
+          "phone": "+1-503-206-8560",
+          "website": "https://topburmese.com/pages/nw-23rd-ave",
+          "hours": "Mo-Su 11:30-21:00"
+        },
+        {
+          "name": "Siri Indian Cuisine",
+          "distance_m": 68.6,
+          "address": "1323 NW 23rd Avenue",
+          "cuisine": "Indian",
+          "website": "http://www.siriindianportland.com/"
+        },
+        {
+          "name": "Case Study Coffee Roasters",
+          "distance_m": 114.1,
+          "address": "1400 NW 23rd Avenue",
+          "cuisine": "Coffee Shop",
+          "phone": "+15034778221",
+          "website": "https://www.casestudycoffee.com/",
+          "hours": "07:00-16:00",
+          "outdoor_seating": true,
+          "wifi": true
+        },
+        {
+          "name": "Palomar",
+          "distance_m": 143.1,
+          "address": "1422 NW 23rd Avenue",
+          "website": "https://www.barpalomar.com/"
+        },
+        {
+          "name": "Dorio Greek Taverna",
+          "distance_m": 158.1,
+          "address": "1037 NW 23rd Avenue",
+          "cuisine": "Greek",
+          "website": "http://www.doriogn.com/"
+        },
+        {
+          "name": "Matador",
+          "distance_m": 162.6,
+          "address": "1438 NW 23rd Avenue",
+          "cuisine": "Mexican"
+        },
+        {
+          "name": "Grassa",
+          "distance_m": 188.4,
+          "address": "1506 NW 23rd Avenue",
+          "cuisine": "Italian",
+          "website": "https://www.grassapdx.com/"
+        },
+        {
+          "name": "Hem 23 Vietnamese Bar & Grill",
+          "distance_m": 206.5,
+          "address": "1514 NW 23rd Avenue",
+          "cuisine": "Vietnamese",
+          "website": "https://www.hem23.com"
+        },
+        {
+          "name": "Bibi 2 Go",
+          "distance_m": 181.2,
+          "address": "1019 NW 23rd Avenue",
+          "cuisine": "Korean",
+          "phone": "+1-971-242-8992"
+        }
+      ]
+    },
+    "cafes": {
+      "sample": [
+        {
+          "name": "Starbucks",
+          "address": "2328 W Burnside Street",
+          "phone": "+1 503-228-8777",
+          "website": "https://www.starbucks.com/"
+        },
+        {
+          "name": "Portal Tea",
+          "distance_m": 345,
+          "address": "734 NW 23rd Avenue",
+          "hours": "10:00-21:00",
+          "website": "https://www.portaltea.co"
+        },
+        {
+          "name": "Case Study Coffee Roasters",
+          "distance_m": 114,
+          "address": "1400 NW 23rd Avenue",
+          "hours": "07:00-16:00"
+        },
+        {
+          "name": "Kirari West",
+          "distance_m": 318,
+          "address": "1668 NW 23rd Avenue",
+          "specialty": "Gluten-free bakery",
+          "website": "https://www.kiraricrust.com/"
+        },
+        {
+          "name": "Memento Mori Cafe",
+          "distance_m": 285,
+          "address": "1533 NW 24th Avenue",
+          "vegan": true,
+          "hours": "Mo-Sa 08:00-17:00; Su 09:00-16:00"
+        }
+      ]
+    },
+    "groceries": {
+      "total_count": 3,
+      "average_distance_m": 668,
+      "sample": [
+        {
+          "name": "Lovejoy Grocery",
+          "distance_m": 173,
+          "address": "1025 NW 23rd Avenue",
+          "type": "Convenience store"
+        },
+        {
+          "name": "Natural Mart #3",
+          "distance_m": 876,
+          "address": "522 NW 19th Avenue",
+          "type": "Convenience store",
+          "hours": "Mo-Sa 8am-11pm, Su 9am-10pm"
+        },
+        {
+          "name": "Zupan's Markets",
+          "distance_m": 955,
+          "address": "2340 W Burnside Street",
+          "type": "Full supermarket",
+          "hours": "Mo-Su 6am-10pm",
+          "phone": "+1-503-497-1088",
+          "website": "https://www.zupans.com/"
+        }
+      ]
+    },
+    "healthcare": {
+      "total_count": 6,
+      "average_distance_m": 520,
+      "sample": [
+        {
+          "name": "Walgreens",
+          "distance_m": 37.8,
+          "address": "1215 NW 23rd Avenue",
+          "type": "Pharmacy",
+          "hours": "Mo-Fr 08:30-18:00",
+          "phone": "+1 503 937 4984"
+        },
+        {
+          "name": "Integrative Primary Care Associates",
+          "distance_m": 452,
+          "address": "2050 NW...",
+          "type": "Primary Care"
+        }
+      ]
+    },
+    "sports_fitness": {
+      "score": 8.7,
+      "rating": "Very Good",
+      "sample": [
+        {
+          "name": "Cyclepath West",
+          "distance_m": 911,
+          "address": "2714 NW Thurman Street",
+          "type": "Bicycle shop",
+          "phone": "+1 503 222 3276",
+          "hours": "We-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:30-16:30"
+        }
+      ]
+    },
+    "public_transit": {
+      "score": 9.4,
+      "rating": "Excellent",
+      "notes": [
+        "Portland Streetcar NS Line and A/B Loops serve the area",
+        "Multiple stops within walking distance on NW 23rd Avenue and W Burnside Street"
+      ]
+    },
+    "parks_recreation": {
+      "score": 4.3,
+      "rating": "Good",
+      "notes": [
+        "Nob Hill Nature Park and surrounding green spaces",
+        "Sports/fitness score of 8.7/10 indicates good access to athletic facilities"
+      ]
+    },
+    "shopping": {
+      "score": 8.8,
+      "rating": "Very Good",
+      "sample": [
+        {
+          "name": "Zupan's Markets",
+          "type": "Supermarket",
+          "distance_m": 955
+        },
+        {
+          "name": "Ken's Artisan Bakery",
+          "type": "Bakery",
+          "distance_m": 810,
+          "address": "338 NW 21st Avenue"
+        }
+      ]
+    },
+    "education": {
+      "score": 2.9,
+      "rating": "Minimal",
+      "notes": "Limited educational institutions within 1km radius"
+    },
+    "entertainment": {
+      "score": 0,
+      "rating": "None within 1km",
+      "notes": "No dedicated entertainment venues (cinema, theater) within 1km"
+    }
+  },
+  "key_highlights": [
+    "89 restaurants within 1km — one of the highest restaurant densities in Portland",
+    "Walker's Paradise — daily errands do not require a car",
+    "Excellent transit — Portland Streetcar stops within walking distance",
+    "Culinary diversity — Thai, Burmese, Indian, Greek, Mexican, Italian, Vietnamese cuisines all within 200m",
+    "Grocery access — 3 options including a supermarket (Zupan's) within 1km",
+    "Top-rated coffee shops and bakeries throughout the neighborhood"
+  ],
+  "limitations": [
+    "No healthcare facilities of significant scale within 1km — Walgreens pharmacy is closest (38m)",
+    "No dedicated entertainment venues (cinema, theater) within 1km",
+    "Educational institutions are limited within the 1km radius",
+    "Grocery options are limited — only 3 within 1km"
+  ]
+}
