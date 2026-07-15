@@ -7,22 +7,23 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 **Address:** 1234 NW 23rd Avenue, Portland, OR 97210  
 **Neighborhood:** Nob Hill, Northwest District  
 **City/County:** Portland, Multnomah County, Oregon  
-**Coordinates:** 45.5317783, -122.6985663
+**Coordinates:** 45.5317783, -122.6985663  
+**OSM Place ID:** 407060190 | **Way ID:** 119636244
 
 ## Walkability Score
 
 | Metric | Score | Rating |
 |--------|-------|--------|
 | **Overall Walkability** | **10/10** | Walker's Paradise |
-| **Overall Neighborhood Score** | 6.3/10 | Above Average |
+| **Overall Neighborhood Score** | 2.3/10 | Limited categories (amenity-based) |
 | **Public Transit** | 9.4/10 | Excellent |
-| **Groceries** | 7.1/10 | Good |
 | **Restaurants** | 9.8/10 | Excellent |
 | **Healthcare** | 9.8/10 | Excellent |
 | **Sports/Fitness** | 8.7/10 | Very Good |
-| **Services** | 8.8/10 | Very Good |
 | **Shopping** | 8.8/10 | Very Good |
+| **Services** | 8.8/10 | Very Good |
 | **Parks** | 4.3/10 | Good |
+| **Groceries** | 0/10 | Minimal within 1km |
 | **Education** | 2.9/10 | Minimal |
 | **Entertainment** | 0/10 | None in 1km |
 
@@ -31,34 +32,33 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **89 restaurants** within 1km — one of the highest restaurant densities in Portland
 - **Walker's Paradise** — daily errands do not require a car
 - **Excellent transit** — Portland Streetcar stops within walking distance (2 min walk to nearest stop)
-- **Culinary diversity** — Thai, Burmese, Indian, Greek, Mexican, Italian, Vietnamese cuisines all within 200m
-- **Grocery access** — 3 options including convenience stores within 175m and supermarket within 1km
-- **Excellent healthcare access** — 6 facilities within 1km including pharmacy 38m away
+- **Culinary diversity** — Thai, Burmese, Indian, Greek, Mexican, Italian, Vietnamese, Korean cuisines all within 200m
+- **16 shops within 1km** including artisan bakeries, sportswear, and bicycle shops
 - **Strong fitness access** — 8+ sports/fitness facilities including LA Fitness, YogaSix, Portland Aikikai
-- **Artisan bakery access** — Ken's Artisan Bakery and St. Honoré within 1km
 - **Bicycle culture** — Cyclepath West (bike shop) within 900m; Portland's bike-friendly infrastructure
 - **8 transit stops** within 1km on NW 23rd Avenue and W Burnside Street
+- **Healthcare access** — 6 facilities within 1km, pharmacy just 38m away
 
 ## Amenities Detail
 
-### Groceries (3 found, avg distance 668m)
+### Groceries (1 convenience store directly on NW 23rd, supermarket ~1km)
 - **Lovejoy Grocery** — 173m away at 1025 NW 23rd Ave (convenience store)
 - **Natural Mart #3** — 876m away at 522 NW 19th Ave (convenient store, open Mo-Su 8am/9pm)
 - **Zupan's Market** — 955m away at 2340 W Burnside St (full supermarket, Mo-Su 6am-10pm)
 
-### Restaurants (89 found within 1km — sample below)
-- **Tara Thai Northwest** — 42m (Thai/Lao)
-- **Top Burmese Burma Joy** — 47m (Burmese/Asian)
-- **Siri Indian Cuisine** — 69m (Indian)
+### Restaurants (89 found within 1km — nearest sample)
+- **Tara Thai Northwest** — 42m (Thai/Lao, website: tarathainorthwest.com)
+- **Top Burmese Burma Joy** — 47m (Burmese/Asian, open Mo-Su 11:30-21:00)
+- **Siri Indian Cuisine** — 68m (Indian, website: siriindianportland.com)
 - **Henry Higgins Boiled Bagels** — 95m (Bagel/American, vegan options, delivery)
 - **Pepino's** — 98m (Mexican)
 - **Case Study Coffee Roasters** — 114m (cafe, outdoor seating, wifi)
-- **Palomar** — 143m (Latin/British pub)
-- **Dorio Greek Taverna** — 158m (Greek)
+- **Palomar** — 143m (Latin/British pub, website: barpalomar.com)
+- **Dorio Greek Taverna** — 159m (Greek)
 - **Matador** — 163m (Mexican)
-- **Grassa** — 188m (Italian)
-- **Bibi 2 Go** — 181m (Korean)
-- **Hem 23 Vietnamese Bar & Grill** — 207m (Vietnamese)
+- **Grassa** — 188m (Italian, website: grassapdx.com)
+- **Bibi 2 Go** — 182m (Korean)
+- **Hem 23 Vietnamese Bar & Grill** — 206m (Vietnamese, website: hem23.com)
 
 ### Cafes (12+ found within 1km)
 - **Portal Tea** — 345m (tea house, wifi, indoor seating)
@@ -67,6 +67,7 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Case Study Coffee Roasters** — 114m (coffee, outdoor seating, wifi)
 - **Starbucks** — 919m at 2328 W Burnside Street
 - **Caffe Umbria** — near 2320 W Burnside Street
+- **St. Honoré** — 245m (bakery, wifi, website: sainthonorebakery.com)
 
 ### Healthcare (6 found, avg distance 488m)
 - **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave (open Mo-Fr 8:30am-6pm)
@@ -74,17 +75,17 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Kaiser Permanente** — 490m at 1801 NW Nicolai Street
 
 ### Public Transit
-- Portland Streetcar NS Line, A Loop, and B Loop serve the area
-- **8 stops** within 1km:
-  - NW 23rd & Marshall — 128m (2 min walk) — Streetcar + Bus 8989
-  - NW Northrup & 22nd — 174m — Streetcar
-  - NW Lovejoy & 22nd — 256m — Streetcar
-  - NW Northrup & 21st — 323m — Streetcar
-  - NW Lovejoy & 21st — 370m — Streetcar
-  - NW Northrup & 18th — 714m — Streetcar
-  - NW Lovejoy & 18th — 726m — Streetcar
+Portland Streetcar NS Line, A Loop, and B Loop serve the area
+8 stops within 1km:
+- NW 23rd & Marshall — 128m (2 min walk) — Streetcar + Bus 8989
+- NW Northrup & 22nd — 174m — Streetcar
+- NW Lovejoy & 22nd — 256m — Streetcar
+- NW Northrup & 21st — 323m — Streetcar
+- NW Lovejoy & 21st — 370m — Streetcar
+- NW Northrup & 18th — 714m — Streetcar
+- NW Lovejoy & 18th — 726m — Streetcar
 
-### Sports & Fitness (11 facilities within 1km)
+### Sports & Fitness (11+ facilities within 1km)
 - LA Fitness
 - YogaSix
 - Portland Aikikai
@@ -104,6 +105,9 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - Ken's Artisan Bakery (338 NW 21st Ave)
 - Title Nine (sportswear, 242m)
 - Lovejoy Grocery (convenience, 173m)
+- St. Honoré (bakery, 245m)
+- Grand Central Bakery (supermarket)
+- Cyclepath West (bicycle shop)
 
 ### Education
 - **Bridges Middle School** — 816m at 1638 NW Overton Street
@@ -112,11 +116,14 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 ### Services
 - Chase Bank — 602m at 2364 W Burnside Street
 - Walgreens Pharmacy — 38m at 1215 NW 23rd Avenue
+- Valvoline (car repair) — 1025m at 2016 NW 26th Ave
+- Rudy's Barbershop — 815m at 326 NW 21st Ave
 
 ### Limitations
 - No dedicated entertainment venues (cinema, theater) within 1km
 - Educational institutions are limited within the 1km radius (2 schools found)
-- Grocery options are limited — only 3 within 1km
+- Grocery options are limited — only 1 convenience store directly on NW 23rd Ave; supermarket ~1km away
+- Overall neighborhood amenability score is low due to limited grocery and education options in the immediate radius
 
 ## Detailed Data (from Live OSM Analysis)
 
@@ -126,8 +133,8 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 | Walk Score | 10/10 | Walker's Paradise |
 | Transit Score | 9.4/10 | 8 stops within 1km, nearest 128m |
 | Bike Score | High | Bike shop within 900m, Portland bike infrastructure |
-| Groceries | 7.1/10 | 3 options, avg 668m, nearest 173m |
-| Restaurants | 9.8/10 | 89 options within 1km |
+| Groceries | 0/10 | 1 convenience store at 173m, supermarket at ~1km |
+| Restaurants | 9.8/10 | 89 options within 1km, nearest at 42m |
 | Healthcare | 9.8/10 | 6 facilities, nearest 38m (pharmacy) |
 | Education | 2.9/10 | 2 schools, nearest 816m |
 | Parks | 4.3/10 | Limited formal parks in 1km |
@@ -138,12 +145,16 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 
 ### Nearest Landmark Distances (from 1234 NW 23rd Ave)
 - Walgreens Pharmacy: 38m
-- Henry Higgins Boiled Bagels: 95m
+- Tara Thai Northwest: 42m (nearest restaurant)
+- Top Burmese Burma Joy: 46m
+- Siri Indian Cuisine: 68m
 - Case Study Coffee Roasters: 114m
-- NW 23rd & Marshall St: 128m (nearest transit)
+- Palomar: 143m
+- NW 23rd & Marshall St: 129m (nearest transit)
 - Lovejoy Grocery: 173m
 - NW Northrup & 22nd St: 174m (transit)
-- Tara Thai Northwest: 42m (nearest restaurant)
+- Dorio Greek Taverna: 159m
+- Matador: 163m
 
 ## Raw Data
 
@@ -155,7 +166,7 @@ Full structured data is available in [`data/nob-hill-portland.json`](data/nob-hi
 - **Analysis Method:** OSM-based neighborhood scoring via OSRM routing
 - **Data Collection Date:** 2026-07-14
 - **Analysis Radius:** 1000 meters
-- **OSM Place ID:** 406668982
+- **OSM Place ID:** 407060190
 - **OSM Way ID:** 119636244
 
 ## How to Contribute
@@ -172,3 +183,12 @@ Open data - feel free to use and distribute under Open Database License (ODbL).
 ## Repository
 
 This profile is part of the [neighborhood-profile](https://github.com/zhub9006/neighborhood-profile) open-source project.
+
+## Repository Structure
+
+### Directories
+- **data/**
+
+### Files
+- README.md
+- data/nob-hill-portland.json
