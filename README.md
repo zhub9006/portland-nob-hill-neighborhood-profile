@@ -38,6 +38,8 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Artisan bakery access** — Ken's Artisan Bakery and St. Honoré within 1km
 - **Bicycle culture** — Cyclepath West (bike shop) within 900m; Portland's bike-friendly infrastructure
 - **8 transit stops** within 1km on NW 23rd Avenue and W Burnside Street
+- **EV charging** — EVgo station just 336m away, 24/7 access
+- **12 cafes** within 1km with free WiFi at several locations
 
 ## Amenities Detail
 
@@ -60,7 +62,7 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Bibi 2 Go** — 181m (Korean)
 - **Hem 23 Vietnamese Bar & Grill** — 207m (Vietnamese)
 
-### Cafes (12+ found within 1km)
+### Cafes (12 found within 1km)
 - **Portal Tea** — 345m (tea house, wifi, indoor seating)
 - **Kirari West** — 318m (gluten-free bakery)
 - **Memento Mori Cafe** — 285m (vegan cafe)
@@ -71,7 +73,8 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 ### Healthcare (6 found, avg distance 488m)
 - **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave (open Mo-Fr 8:30am-6pm)
 - **Integrative Primary Care Associates** — 452m at 2050 NW Lovejoy St
-- **Kaiser Permanente** — 490m at 1801 NW Nicolai Street
+- **James P. Thomas, MD** — 728m at 909 NW 18th Ave (ENT, LGBTQ+ welcoming)
+- **Portland Dermatology Clinic** — 985m at 1414 NW Northrup St
 
 ### Public Transit
 - Portland Streetcar NS Line, A Loop, and B Loop serve the area
@@ -104,19 +107,37 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - Ken's Artisan Bakery (338 NW 21st Ave)
 - Title Nine (sportswear, 242m)
 - Lovejoy Grocery (convenience, 173m)
+- Grand Central Bakery
+- St. Honoré bakery
+- Cyclepath West (bicycle shop)
 
 ### Education
-- **Bridges Middle School** — 816m at 1638 NW Overton Street
+- **Bridges Middle School** — 816m at 1638 NW Overton Street (+1 503 688 2922)
 - **Class Academy** — 890m at 2730 NW Wardway Street
 
 ### Services
 - Chase Bank — 602m at 2364 W Burnside Street
 - Walgreens Pharmacy — 38m at 1215 NW 23rd Avenue
+- Valvoline (car repair) — 700m
+- Rudy's Barbershop — 600m
+
+### EV Charging
+- **EVgo** — 336m at 2170 NW Raleigh St (Chademo, Type 1 Combo, 24/7)
+
+### Bicycle Infrastructure
+- Cyclepath West bike shop — 911m at 2714 NW Thurman St
+- Portland is one of the most bike-friendly cities in the US
+
+### Parking
+- No on-street parking within 1km
+- 15 parking facilities within 1500m (surface, street-side, multi-storey)
 
 ### Limitations
 - No dedicated entertainment venues (cinema, theater) within 1km
 - Educational institutions are limited within the 1km radius (2 schools found)
-- Grocery options are limited — only 3 within 1km
+- Grocery options are limited — only 3 within 1km (nearest supermarket 955m)
+- Parks and green space limited within immediate 1km radius
+- No on-street parking within 1km
 
 ## Detailed Data (from Live OSM Analysis)
 
@@ -138,12 +159,13 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 
 ### Nearest Landmark Distances (from 1234 NW 23rd Ave)
 - Walgreens Pharmacy: 38m
+- Tara Thai Northwest: 42m
+- Top Burmese Burma Joy: 47m
 - Henry Higgins Boiled Bagels: 95m
 - Case Study Coffee Roasters: 114m
-- NW 23rd & Marshall St: 128m (nearest transit)
-- Lovejoy Grocery: 173m
-- NW Northrup & 22nd St: 174m (transit)
-- Tara Thai Northwest: 42m (nearest restaurant)
+- NW 23rd & Marshall St (transit): 128m
+- Lovejo Grocery: 173m
+- NW Northrup & 22nd St (transit): 174m
 
 ## Raw Data
 
@@ -153,9 +175,9 @@ Full structured data is available in [`data/nob-hill-portland.json`](data/nob-hi
 
 - **Primary:** OpenStreetMap (Data © OpenStreetMap contributors, ODbL 1.0)
 - **Analysis Method:** OSM-based neighborhood scoring via OSRM routing
-- **Data Collection Date:** 2026-07-14
+- **Data Collection Date:** 2026-07-15
 - **Analysis Radius:** 1000 meters
-- **OSM Place ID:** 406668982
+- **OSM Place ID:** 407060190
 - **OSM Way ID:** 119636244
 
 ## How to Contribute
