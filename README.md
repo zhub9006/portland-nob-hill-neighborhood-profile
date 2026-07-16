@@ -159,11 +159,26 @@ Portland Streetcar NS Line, A Loop, and B Loop serve the area
 - Lovejoy Grocery: 173m
 - NW Northrup & 22nd St: 174m (transit)
 
+## Live Contributor Data
+
+A living resident has contributed detailed OSM-verifiable amenity data for this specific address, including:
+
+- **Restaurant details**: names, distances, cuisines, addresses, hours, and websites for 10 nearest restaurants
+- **Healthcare facilities**: all 6 facilities with distances, addresses, hours, phone numbers, and types
+- **Transit stops**: all 7 stops within 1km with routes and distances
+- **EV charging**: EVgo station at 336m with connector types and 24/7 availability
+- **Grocery options**: all 3 options with distances, addresses, and hours
+- **Sports & fitness**: complete list of 11 facilities
+- **OSM metadata**: place ID, OSM type/ID, and bounding box for verification
+
+📄 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
+
 ## Raw Data
 
 Full structured data is available in:
 - [data/nob-hill-portland.json](data/nob-hill-portland.json) — General neighborhood data
 - [data/nob-hill-1234-nw-23rd-ave.json](data/nob-hill-1234-nw-23rd-ave.json) — Specific address data with precise walkability scores and commute details
+- [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — Live contributor data with detailed OSM-verifiable amenity records
 
 ## Data Sources
 
@@ -188,18 +203,3 @@ Open data - feel free to use and distribute under Open Database License (ODbL).
 ## Repository
 
 This profile is part of the [neighborhood-profile](https://github.com/zhub9006/neighborhood-profile) open-source project.
-
-## Repository Structure
-
-### Directories
-- **data/**
-
-### Files
-- README.md
-- data/nob-hill-portland.json
-- data/nob-hill-1234-nw-23rd-ave.json
-
-## Links
-
-- **GitHub:** https://github.com/zhub9006/portland-nob-hill-neighborhood-profile
-- **Clone:** `git clone https://github.com/zhub9006/portland-nob-hill-neighborhood-profile.git`
