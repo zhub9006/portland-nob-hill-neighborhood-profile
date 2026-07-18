@@ -100,8 +100,10 @@ Portland Streetcar NS Line, A Loop, and B Loop serve the area
 
 ### Parks & Recreation
 - **Nob Hill Nature Park** in the Nob Hill enclave
+- **Overton Park** — pocket park at 2315 NW Overton St (350m away)
 - Playground and picnic areas within 1km
 - Northwest District has several small pocket parks along NW Lovejoy and NW Northrup streets
+- Nearby large parks: Columbia Park (1.4km), Laurelhurst Park (1.8km), Forest Park (2.4km)
 
 ### Shopping (16 shops within 1km)
 - Zupan's Markets (supermarket)
@@ -171,7 +173,7 @@ A living resident has contributed detailed OSM-verifiable amenity data for this 
 - **Sports & fitness**: complete list of 11 facilities
 - **OSM metadata**: place ID, OSM type/ID, and bounding box for verification
 
-📄 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
+📋 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
 
 ## Raw Data
 
@@ -179,15 +181,25 @@ Full structured data is available in:
 - [data/nob-hill-portland.json](data/nob-hill-portland.json) — General neighborhood data
 - [data/nob-hill-1234-nw-23rd-ave.json](data/nob-hill-1234-nw-23rd-ave.json) — Specific address data with precise walkability scores and commute details
 - [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — Live contributor data with detailed OSM-verifiable amenity records
+- **[data/nob-hill-parks-recreation.json](data/nob-hill-parks-recreation.json)** — Detailed parks, recreation, and leisure amenities data
+- **[data/nob-hill-amenity-index.json](data/nob-hill-amenity-index.json)** — Comprehensive amenity index cataloging all categories by distance
+
+## Data Files
+
+| File | Description |
+|------|-------------|
+| [`data/nob-hill-portland.json`](data/nob-hill-portland.json) | General neighborhood-level data with walkability scores and amenity summaries |
+| [`data/nob-hill-1234-nw-23rd-ave.json`](data/nob-hill-1234-nw-23rd-ave.json) | Address-specific detailed walkability breakdown, transportation, and amenities data |
+| [`data/nob-hill-1234-nw-23rd-ave-live-contribution.json`](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) | Live contributor data with detailed OSM-verified amenity records |
+| [`data/nob-hill-parks-recreation.json`](data/nob-hill-parks-recreation.json) | **NEW** — Detailed parks, recreation, and leisure amenities data |
+| [`data/nob-hill-amenity-index.json`](data/nob-hill-amenity-index.json) | **NEW** — Comprehensive amenity index by distance category |
 
 ## Data Sources
 
 - **Primary:** OpenStreetMap (Data © OpenStreetMap contributors, ODbL 1.0)
 - **Analysis Method:** OSM-based neighborhood scoring via OSRM routing
-- **Data Collection Date:** 2026-07-15
+- **Data Collection Date:** 2025-07-15
 - **Analysis Radius:** 1000 meters
-- **OSM Place ID:** 407060190
-- **OSM Way ID:** 119636244
 
 ## How to Contribute
 
