@@ -40,7 +40,9 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Strong fitness access** — 11+ sports/fitness facilities including YogaSix, LA Fitness, Portland Aikikai
 - **Artisan bakery access** — Ken's Artisan Bakery and St. Honoré within 1km
 - **Bicycle culture** — Cyclepath West (bike shop) within 900m; Portland's bike-friendly infrastructure
+- **EV charging** — EVgo station 336m away with 24/7 access (CHAdeMO + Type 1 Combo)
 - **8 transit stops** within 1km on NW 23rd Avenue and W Burnside Street
+- **Portland Heritage Tree #10** on NW 23rd Avenue
 
 ## Amenities Detail
 
@@ -69,7 +71,6 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Memento Mori Cafe** — 285m (vegan cafe)
 - **Case Study Coffee Roasters** — 114m (coffee, outdoor seating, wifi)
 - **Starbucks** — 919m at 2328 W Burnside Street
-- **Caffe Umbria** — near 2320 W Burnside Street
 
 ### Healthcare (6 found within 1km)
 - **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave (open Mo-Fr 8:30am-6pm)
@@ -150,43 +151,44 @@ Portland Streetcar NS Line, A Loop, and B Loop serve the area
 
 ### Nearest Landmark Distances (from 1234 NW 23rd Ave)
 - Walgreens Pharmacy: 38m
-- Tara Thai Northwest: 42m
+- Tara Thai Northwest: 42m (nearest restaurant)
 - Top Burmese Burma Joy: 47m
 - Siri Indian Cuisine: 69m
 - Henry Higgins Boiled Bagels: 95m
 - Case Study Coffee Roasters: 114m
 - NW 23rd & Marshall St: 128m (nearest transit)
-- Lovejoy Grocery: 173m
-- NW Northrup & 22nd St: 174m (transit)
+- Lovejo Grocery: 173m
 
 ## Live Contributor Data
 
 A living resident has contributed detailed OSM-verifiable amenity data for this specific address, including:
 
-- **Restaurant details**: names, distances, cuisines, addresses, hours, and websites for 10 nearest restaurants
+- **Restaurant details**: names, distances, cuisines, addresses, hours, and websites for 11 nearest restaurants
 - **Healthcare facilities**: all 6 facilities with distances, addresses, hours, phone numbers, and types
 - **Transit stops**: all 7 stops within 1km with routes and distances
 - **EV charging**: EVgo station at 336m with connector types and 24/7 availability
 - **Grocery options**: all 3 options with distances, addresses, and hours
 - **Sports & fitness**: complete list of 11 facilities
+- **Artwork & culture**: Large Metal Pigs sculpture, Bella venti-tre e Thurman mural, Vaux's Swifts, and more
 - **OSM metadata**: place ID, OSM type/ID, and bounding box for verification
 
-📄 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
+📋 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
 
 ## Raw Data
 
 Full structured data is available in:
 - [data/nob-hill-portland.json](data/nob-hill-portland.json) — General neighborhood data
-- [data/nob-hill-1234-nw-23rd-ave.json](data/nob-hill-1234-nw-23rd-ave.json) — Specific address data with precise walkability scores and commute details
+- [data/nob-hill-1234-nw-23rd-ave.json](data/nob-hill-1234-nw-23rd-ave.json) — Specific address data with precise walkability scores and commute details (enriched 2026-07-22)
 - [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — Live contributor data with detailed OSM-verifiable amenity records
+- [data/nob-hill-1234-nw-23rd-ave-area-profile.json](data/nob-hill-1234-nw-23rd-ave-area-profile.json) — Supplementary area profile with walkability, transit, bicycle, parks, and community services breakdown
 
 ## Data Sources
 
 - **Primary:** OpenStreetMap (Data © OpenStreetMap contributors, ODbL 1.0)
 - **Analysis Method:** OSM-based neighborhood scoring via OSRM routing
-- **Data Collection Date:** 2026-07-15
+- **Data Collection Date:** 2026-07-22 (previously 2026-07-15)
 - **Analysis Radius:** 1000 meters
-- **OSM Place ID:** 407060190
+- **OSM Place ID:** 400526818
 - **OSM Way ID:** 119636244
 
 ## How to Contribute
