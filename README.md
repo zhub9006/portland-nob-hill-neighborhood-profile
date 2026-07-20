@@ -47,18 +47,16 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 ## Amenities Detail
 
 ### Groceries (3 found within 1km)
-- **Lovejoy Grocery** — 173m away at 1025 NW 23rd Ave (convenience store)
-- **Natural Mart #3** — 876m away at 522 NW 19th Ave (convenient store, open Mo-Su 8am/9pm)
-- **Zupan's Market** — 955m away at 2340 W Burnside St (full supermarket, Mo-Su 6am-10pm)
+- **Lovejoy Grocery** — 173m at 1025 NW 23rd Ave
+- **Natural Mart #3** — 876m at 522 NW 19th Ave
+- **Zupan's Market** — 955m at 2340 W Burnside St
 
-### Restaurants (89 found within 1km — sample below)
+### Restaurants (89 found within 1km)
 - **Tara Thai Northwest** — 42m (Thai/Lao)
 - **Top Burmese Burma Joy** — 47m (Burmese/Asian)
 - **Siri Indian Cuisine** — 69m (Indian)
-- **Henry Higgins Boiled Bagels** — 95m (Bagel/American, vegan options, delivery)
-- **Pepino's** — 98m (Mexican)
-- **Case Study Coffee Roasters** — 114m (cafe, outdoor seating, wifi)
-- **Palomar** — 143m (Latin/British pub)
+- **Case Study Coffee Roasters** — 114m (cafe)
+- **Palomar** — 143m
 - **Dorio Greek Taverna** — 158m (Greek)
 - **Matador** — 163m (Mexican)
 - **Grassa** — 188m (Italian)
@@ -66,22 +64,20 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 - **Hem 23 Vietnamese Bar & Grill** — 207m (Vietnamese)
 
 ### Cafes (12+ found within 1km)
-- **Portal Tea** — 345m (tea house, wifi, indoor seating)
+- **Portal Tea** — 345m (tea, wifi)
 - **Kirari West** — 318m (gluten-free bakery)
-- **Memento Mori Cafe** — 285m (vegan cafe)
-- **Case Study Coffee Roasters** — 114m (coffee, outdoor seating, wifi)
-- **Starbucks** — 919m at 2328 W Burnside Street
+- **Memento Mori Cafe** — 285m (vegan)
+- **Case Study Coffee Roasters** — 114m (coffee, wifi, outdoor)
+- **Starbucks** — 919m
 
 ### Healthcare (6 found within 1km)
-- **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave (open Mo-Fr 8:30am-6pm)
+- **Walgreens Pharmacy** — 38m at 1215 NW 23rd Ave
 - **Integrative Primary Care Associates** — 452m at 2050 NW Lovejoy St
-- **Kaiser Permanente** — 490m at 1801 NW Nicolai Street
+- **Kaiser Permanente** — 490m at 1801 NW Nicolai St
 
 ### Public Transit
-Portland Streetcar NS Line, A Loop, and B Loop serve the area
-
-**8 stops** within 1km:
-- NW 23rd & Marshall — 128m (2 min walk) — Streetcar + Bus 8989
+Portland Streetcar NS Line, A Loop, and B Loop serve the area. **8 stops** within 1km:
+- NW 23rd & Marshall — 128m (2 min) — Streetcar + Bus 8989
 - NW Northrup & 22nd — 174m — Streetcar
 - NW Lovejoy & 22nd — 256m — Streetcar
 - NW Northrup & 21st — 323m — Streetcar
@@ -90,35 +86,25 @@ Portland Streetcar NS Line, A Loop, and B Loop serve the area
 - NW Lovejoy & 18th — 726m — Streetcar
 
 ### Sports & Fitness (11 facilities within 1km)
-- LA Fitness
-- YogaSix
-- Portland Aikikai
-- Hyatt Training
-- Orangetheory Fitness
-- Kiska
-- Industrial Strength Gym
-- Cyclepath West (bike shop at 2714 NW Thurman, 911m)
+LA Fitness, YogaSix, Portland Aikikai, Hyatt Training, Orangetheory Fitness, Kiska, Industrial Strength Gym, Cyclepath West
 
 ### Parks & Recreation
 - **Nob Hill Nature Park** in the Nob Hill enclave
-- Playground and picnic areas within 1km
-- Northwest District has several small pocket parks along NW Lovejoy and NW Northrup streets
+- Pocket parks along NW Lovejoy and NW Northrup streets
 
 ### Shopping (16 shops within 1km)
-- Zupan's Markets (supermarket)
-- Ken's Artisan Bakery (338 NW 21st Ave)
-- Title Nine (sportswear, 242m)
-- Lovejo Grocery (convenience, 173m)
+Zupan's Markets, Ken's Artisan Bakery, Title Nine, Lovejo Grocery
 
 ### Education
-- **Bridges Middle School** — 816m at 1638 NW Overton Street
-- **Class Academy** — 890m at 2730 NW Wardway Street
+- **Bridges Middle School** — 816m at 1638 NW Overton St
+- **Class Academy** — 890m at 2730 NW Wardway St
+- *Expanded (2km):* Chapman Elementary, Willamette HS, La Salle North Catholic
 
 ### Services
-- Chase Bank — 602m at 2364 W Burnside Street
-- Walgreens Pharmacy — 38m at 1215 NW 23rd Avenue
+- Chase Bank — 602m at 2364 W Burnside St
+- Walgreens Pharmacy — 38m at 1215 NW 23rd Ave
 
-### Commute Example (to Downtown Portland)
+### Commute to Downtown Portland
 | Mode | Distance | Duration |
 |------|----------|----------|
 | Car | 3.0 km | ~8 min |
@@ -127,81 +113,77 @@ Portland Streetcar NS Line, A Loop, and B Loop serve the area
 
 ### Limitations
 - No dedicated entertainment venues (cinema, theater) within 1km
-- Educational institutions are limited within the 1km radius (2 schools found)
-- Grocery options are limited — only 3 within 1km
-- No sports/recreation facilities as parks within immediate radius
+- Educational institutions limited within 1km (2 schools found)
+- Grocery options limited — only 3 within 1km
 
-## Detailed Data (from Live OSM Analysis)
+## Pedestrian Infrastructure & Walkability Audit
 
-### Walkability Scores Breakdown
-| Category | Score | Details |
-|----------|-------|---------|
-| Walk Score | 10/10 | Walker's Paradise |
-| Transit Score | 9.4/10 | 8 stops within 1km, nearest 128m |
-| Bike Score | 9/10 | Bike shop within 900m, Portland bike infrastructure |
-| Groceries | 7.1/10 | 3 options, avg 668m, nearest 173m |
-| Restaurants | 9.8/10 | 89 options within 1km |
-| Healthcare | 9.8/10 | 6 facilities, nearest 38m (pharmacy) |
-| Education | 2.9/10 | 2 schools, nearest 816m |
-| Parks | 4.3/10 | Limited formal parks in 1km |
-| Sports/Fitness | 8.7/10 | 11+ facilities within 1km |
-| Shopping | 8.8/10 | 16 shops within 1km |
-| Services | 8.8/10 | Banks, pharmacy, services nearby |
-| Entertainment | 0/10 | None within 1km |
+Detailed pedestrian infrastructure assessment and transit connectivity analysis: [data/nob-hill-1234-nw-23rd-ave-walkability-audit.json](data/nob-hill-1234-nw-23rd-ave-walkability-audit.json)
 
-### Nearest Landmark Distances (from 1234 NW 23rd Ave)
-- Walgreens Pharmacy: 38m
-- Tara Thai Northwest: 42m (nearest restaurant)
-- Top Burmese Burma Joy: 47m
-- Siri Indian Cuisine: 69m
-- Henry Higgins Boiled Bagels: 95m
-- Case Study Coffee Roasters: 114m
-- NW 23rd & Marshall St: 128m (nearest transit)
-- Lovejo Grocery: 173m
+- **Sidewalk Coverage:** Excellent — continuous sidewalks on all streets
+- **Crosswalks:** Signalized at all major intersections
+- **Street Trees:** Mature canopy along most blocks; Portland Heritage Tree #10
+- **Transit:** 8 stops within 1km, nearest 128m (2-min walk)
+
+## Education
+
+Expanded schools data: [data/nob-hill-1234-nw-23rd-ave-schools.json](data/nob-hill-1234-nw-23rd-ave-schools.json)
+
+- **Within 1km:** 2 schools (1 middle, 1 alternative)
+- **Within 2km:** 5 schools (2 elementary, 2 high school)
+- **District:** Portland Public Schools
 
 ## Live Contributor Data
 
-A living resident has contributed detailed OSM-verifiable amenity data for this specific address, including:
-
-- **Restaurant details**: names, distances, cuisines, addresses, hours, and websites for 11 nearest restaurants
-- **Healthcare facilities**: all 6 facilities with distances, addresses, hours, phone numbers, and types
-- **Transit stops**: all 7 stops within 1km with routes and distances
-- **EV charging**: EVgo station at 336m with connector types and 24/7 availability
-- **Grocery options**: all 3 options with distances, addresses, and hours
-- **Sports & fitness**: complete list of 11 facilities
-- **Artwork & culture**: Large Metal Pigs sculpture, Bella venti-tre e Thurman mural, Vaux's Swifts, and more
-- **OSM metadata**: place ID, OSM type/ID, and bounding box for verification
-
-📋 Full contributor data: [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json)
+📋 [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — OSM-verified amenity records
 
 ## Raw Data
 
-Full structured data is available in:
-- [data/nob-hill-portland.json](data/nob-hill-portland.json) — General neighborhood data
-- [data/nob-hill-1234-nw-23rd-ave.json](data/nob-hill-1234-nw-23rd-ave.json) — Specific address data with precise walkability scores and commute details (enriched 2026-07-22)
-- [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — Live contributor data with detailed OSM-verifiable amenity records
-- [data/nob-hill-1234-nw-23rd-ave-area-profile.json](data/nob-hill-1234-nw-23rd-ave-area-profile.json) — Supplementary area profile with walkability, transit, bicycle, parks, and community services breakdown
+| File | Description |
+|------|-------------|
+| `data/nob-hill-portland.json` | General neighborhood data |
+| `data/nob-hill-1234-nw-23rd-ave.json` | Address-specific data (enriched 2026-07-22) |
+| `data/nob-hill-1234-nw-23rd-ave-live-contribution.json` | Live contributor data (enriched 2026-07-22) |
+| `data/nob-hill-1234-nw-23rd-ave-area-profile.json` | Supplementary area profile |
+| `data/nob-hill-1234-nw-23rd-ave-walkability-audit.json` | Walkability audit (2026-07-22) |
+| `data/nob-hill-1234-nw-23rd-ave-schools.json` | Education data (2026-07-22) |
+
+## Repository Structure
+
+```
+portland-nob-hill-neighborhood-profile/
+├── README.md
+├── CONTRIBUTING.md
+├── data/
+│   ├── nob-hill-portland.json
+│   ├── nob-hill-1234-nw-23rd-ave.json
+│   ├── nob-hill-1234-nw-23rd-ave-live-contribution.json
+│   ├── nob-hill-1234-nw-23rd-ave-area-profile.json
+│   ├── nob-hill-1234-nw-23rd-ave-walkability-audit.json
+│   └── nob-hill-1234-nw-23rd-ave-schools.json
+└── issues/
+    └── #1
+```
 
 ## Data Sources
 
 - **Primary:** OpenStreetMap (Data © OpenStreetMap contributors, ODbL 1.0)
 - **Analysis Method:** OSM-based neighborhood scoring via OSRM routing
-- **Data Collection Date:** 2026-07-22 (previously 2026-07-15)
+- **Data Collection Date:** 2026-07-22
 - **Analysis Radius:** 1000 meters
 - **OSM Place ID:** 400526818
 - **OSM Way ID:** 119636244
 
 ## How to Contribute
 
-Contributions to enhance or correct this neighborhood data are welcome! Please:
-1. Verify any updates against current OpenStreetMap data
-2. Open an issue to discuss changes before submitting
+1. Verify updates against current OpenStreetMap data
+2. Open an issue to discuss changes
 3. Submit a Pull Request with OSM-verified data updates
 
 ## License
 
-Open data - feel free to use and distribute under Open Database License (ODbL).
+Open data under Open Database License (ODbL).
 
 ## Repository
 
-This profile is part of the [neighborhood-profile](https://github.com/zhub9006/neighborhood-profile) open-source project.
+Part of the [neighborhood-profile](https://github.com/zhub9006/neighborhood-profile) open-source project.
