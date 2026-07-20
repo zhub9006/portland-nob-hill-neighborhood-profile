@@ -137,6 +137,16 @@ Expanded schools data: [data/nob-hill-1234-nw-23rd-ave-schools.json](data/nob-hi
 
 📋 [data/nob-hill-1234-nw-23rd-ave-live-contribution.json](data/nob-hill-1234-nw-23rd-ave-live-contribution.json) — OSM-verified amenity records
 
+## Enriched Analysis
+
+Enhanced neighborhood analysis with detailed category breakdowns, commute data, EV charging, and parking: [data/nob-hill-1234-nw-23rd-ave-enriched.json](data/nob-hill-1234-nw-23rd-ave-enriched.json)
+
+- Detailed walkability category scores with counts and distances
+- EV charging station details with connector types (CHAdeMO, Type 1 Combo)
+- Multi-mode commute analysis (car/bike/foot/transit to downtown)
+- Parking facilities within 1500m
+- Raw OSM statistics with amenity counts per category
+
 ## Raw Data
 
 | File | Description |
@@ -147,6 +157,7 @@ Expanded schools data: [data/nob-hill-1234-nw-23rd-ave-schools.json](data/nob-hi
 | `data/nob-hill-1234-nw-23rd-ave-area-profile.json` | Supplementary area profile |
 | `data/nob-hill-1234-nw-23rd-ave-walkability-audit.json` | Walkability audit (2026-07-22) |
 | `data/nob-hill-1234-nw-23rd-ave-schools.json` | Education data (2026-07-22) |
+| `data/nob-hill-1234-nw-23rd-ave-enriched.json` | **Enriched analysis with detailed OSM data, commute, EV charging, parking** |
 
 ## Repository Structure
 
@@ -160,7 +171,8 @@ portland-nob-hill-neighborhood-profile/
 │   ├── nob-hill-1234-nw-23rd-ave-live-contribution.json
 │   ├── nob-hill-1234-nw-23rd-ave-area-profile.json
 │   ├── nob-hill-1234-nw-23rd-ave-walkability-audit.json
-│   └── nob-hill-1234-nw-23rd-ave-schools.json
+│   ├── nob-hill-1234-nw-23rd-ave-schools.json
+│   └── nob-hill-1234-nw-23rd-ave-enriched.json
 └── issues/
     └── #1
 ```
