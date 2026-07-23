@@ -29,6 +29,18 @@ Open-source neighborhood profile with walkability scores, nearby amenities, and 
 
 **Overall Neighborhood Score:** 6.3/10 (Above Average)
 
+## 🆕 Data Contribution Notice
+
+> **Correction Applied (2026-07-23):** The `nob-hill-1234-nw-23rd-ave-enriched.json` file previously contained incorrect category scores for Restaurants (0), Parks (0), and Shopping (0). These have been corrected using OSM-verified data:
+> 
+> | Category | Previous Score | Corrected Score | Source |
+> |----------|---------------|----------------|--------|
+> | Restaurants | 0 (broken) | **9.8** | 89 restaurants within 1km |
+> | Parks | 0 (broken) | **4.3** | Nob Hill Nature Park + pocket parks |
+> | Shopping | 0 (broken) | **8.8** | 16 shops within 1km |
+> 
+> See [Issue #19](https://github.com/zhub9006/portland-nob-hill-neighborhood-profile/issues/19) for details.
+
 ## Key Highlights
 
 - **89 restaurants** within 1km — one of the highest restaurant densities in Portland
@@ -141,11 +153,21 @@ Expanded schools data: [data/nob-hill-1234-nw-23rd-ave-schools.json](data/nob-hi
 
 Enhanced neighborhood analysis with detailed category breakdowns, commute data, EV charging, and parking: [data/nob-hill-1234-nw-23rd-ave-enriched.json](data/nob-hill-1234-nw-23rd-ave-enriched.json)
 
-- Detailed walkability category scores with counts and distances
+- Detailed walkability category scores with counts and distances (**corrected 2026-07-23**)
 - EV charging station details with connector types (CHAdeMO, Type 1 Combo)
 - Multi-mode commute analysis (car/bike/foot/transit to downtown)
 - Parking facilities within 1500m
 - Raw OSM statistics with amenity counts per category
+- Pedestrian infrastructure audit with letter grades (A for Sidewalk, Crosswalks, Trees, Bike)
+
+## Schools Data
+
+Detailed schools data with district info, transportation analysis, and childcare/preschool options: [data/nob-hill-1234-nw-23rd-ave-schools.json](data/nob-hill-1234-nw-23rd-ave-schools.json)
+
+- **Within 1km:** 2 schools (1 middle, 1 alternative)
+- **Within 2km:** 5 schools (2 elementary, 2 high school)
+- **Childcare:** Several options within 1.5km
+- **Notable:** Vaux's Swifts at Chapman Elementary (September migration)
 
 ## Raw Data
 
@@ -157,7 +179,8 @@ Enhanced neighborhood analysis with detailed category breakdowns, commute data, 
 | `data/nob-hill-1234-nw-23rd-ave-area-profile.json` | Supplementary area profile |
 | `data/nob-hill-1234-nw-23rd-ave-walkability-audit.json` | Walkability audit (2026-07-22) |
 | `data/nob-hill-1234-nw-23rd-ave-schools.json` | Education data (2026-07-22) |
-| `data/nob-hill-1234-nw-23rd-ave-enriched.json` | **Enriched analysis with detailed OSM data, commute, EV charging, parking** |
+| `data/nob-hill-1234-nw-23rd-ave-enriched.json` | **Enriched analysis with detailed OSM data, commute, EV charging, parking (corrected 2026-07-23)** |
+| `data/nob-hill-1234-nw-23rd-ave-osm-verified.json` | OSM-verified complete dataset with all amenity entries |
 
 ## Repository Structure
 
@@ -172,7 +195,8 @@ portland-nob-hill-neighborhood-profile/
 │   ├── nob-hill-1234-nw-23rd-ave-area-profile.json
 │   ├── nob-hill-1234-nw-23rd-ave-walkability-audit.json
 │   ├── nob-hill-1234-nw-23rd-ave-schools.json
-│   └── nob-hill-1234-nw-23rd-ave-enriched.json
+│   ├── nob-hill-1234-nw-23rd-ave-enriched.json
+│   └── nob-hill-1234-nw-23rd-ave-osm-verified.json
 └── issues/
     └── #1
 ```
@@ -188,8 +212,8 @@ portland-nob-hill-neighborhood-profile/
 
 ## How to Contribute
 
-1. Verify updates against current OpenStreetMap data
-2. Open an issue to discuss changes
+1. Verify any updates against current OpenStreetMap data
+2. Open an issue to discuss changes before submitting
 3. Submit a Pull Request with OSM-verified data updates
 
 ## License
